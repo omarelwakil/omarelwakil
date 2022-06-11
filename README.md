@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**omarelwakil/omarelwakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find some of projects here.
+<p><img src="https://github.com/omarelwakil/omarelwakil/blob/main/coding.gif" alt='https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW' /></p>
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+1. <a href="https://www.linkedin.com/in/omarelwakil/"><img align='center' src="https://img.shields.io/badge/-omarelwakil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarelwakil/" alt="LinkedIn profile"></a>
+2. </a> <a href="mailto:omartelwakil@gmail.com"><img align='center' src="https://img.shields.io/badge/-omartelwakil@gmail.com-1ca0f1?style=flat&logo=gmail&logoColor=white&color=red&link=mailto:omartelwakil@gmail.com" alt="Mail"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun facts about me:
+1. Scuba diver.
+2. Boxing.
+3. Rower (Used to).
